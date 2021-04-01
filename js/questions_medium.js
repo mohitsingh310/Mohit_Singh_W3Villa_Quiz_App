@@ -1,72 +1,72 @@
-// creating an array and passing the number, questions, options, and answers
+  
 let questions = [
     {
     numb: 1,
-    question: "What does fooHTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "The correct sequence of HTML tags for starting a webpage is?",
+    answer: "HTML, Head, Title, Body",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Head, Title, HTML, body",
+      "HTML, Body, Title, Head",
+      "HTML, Head, Body, Title",
+      "HTML, Head, Title, Body"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: " Which of the following element is responsible for making the text bold in HTML?",
+    answer: "b",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "pre",
+      "a",
+      "b",
+      "br",
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Which of the following tag is used for inserting the largest heading in HTML?",
+    answer: "h1",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "h3",
+      "h1",
+      "h5",
+      "h6",
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: " Which of the following tag is used to insert a line-break in HTML?",
+    answer: "br",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "br",
+      "h",
+      "i",
+      "p",
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "How to create an unordered list (a list with the list items in bullets) in HTML?",
+    answer: "ul",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "ul",
+      "ol",
+      "li",
+      "i",
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+    
+    
 
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 ];

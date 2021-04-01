@@ -1,72 +1,72 @@
-// creating an array and passing the number, questions, options, and answers
+  
 let questions = [
     {
     numb: 1,
-    question: "What doeskk HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "The hr tag in HTML is used for",
+    answer: "horizontal ruler",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "new line",
+      "vertical ruler",
+      "new paragraph",
+      "horizontal ruler"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Which of the following attribute is used to provide a unique name to an element?",
+    answer: "id",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Class",
+      "id",
+      "type",
+      "None of these"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "What are the types of unordered or bulleted list in HTML?",
+    answer: "disc, circle, squarer",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "disc, square, triangle",
+      "polygon, triangle, circle",
+      "disc, circle, squarer",
+      "All of the above"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: " Which of the following HTML attribute is used to define inline styles?",
+    answer: "style",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "type",
+      "class",
+      "style",
+      "None of these"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "A program in HTML can be rendered and read by?",
+    answer: "Web browser",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Web browser",
+      "Server",
+      "Interpreter",
+      "All of the above"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+    
+    
 
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 ];
